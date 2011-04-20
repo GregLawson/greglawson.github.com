@@ -1,1 +1,4 @@
 testing post input
+[self link](index.html)
+<BR>
+[RDOC](Open-Table-Explorer/doc/index.html)
