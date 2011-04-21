@@ -1,4 +1,4 @@
 My GitHub Page
-[_site index link](_site/index.html)
+[_site index link](http://greglawson.github.com/_site/index.html)
 <BR>
-[RDOC](Open-Table-Explorer/doc/index.html)
+[RDOC](http://greglawson.github.com/Open-Table-Explorer/doc/index.html)
